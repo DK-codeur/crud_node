@@ -1,0 +1,14 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "create connection and  ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "dorgeles koble - DK-codeur",
+  "license": "ISC"
+}
